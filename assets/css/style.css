@@ -494,36 +494,9 @@ border-radius: 4px;
 }
 
 
-.buy{
-    font-size: 16px;
-    font-weight: 600;
-    color: #fff!important;
-text-transform: uppercase;
-background-color: #40922e;
-padding: 5px 15px 5px 15px;
-border-radius: 4px;
-cursor: pointer;
-transition: all 0.5s;
-position: relative;
-  }
 
-.buy span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.5s;
-  }
 
-  
-  .buy:hover {
-    background-color:#4aa834 ;
-   }
 
- 
-  .buy:hover span:after {
-    opacity: 1;
-    right: 0;
-  }
 .gamfi-header-section {
    
 }
@@ -1334,14 +1307,6 @@ z-index: 99;
     display: block;
 }
 
-.menu-btn {
-    display: flex;
-    gap:10px;
-    position: absolute;
-    top:30%;
-    right:10px;
-    
- }
 
 
 .sc-banner {
