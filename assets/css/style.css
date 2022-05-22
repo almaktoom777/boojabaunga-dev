@@ -1934,6 +1934,14 @@ h3 {
     margin-bottom: 0px;
     color: #5fe844;
 }
+
+.tie-text-section {
+    background: #132209;
+    padding-top: 70px;
+    padding-bottom: 110px;
+    position: relative;
+}
+
 /* ------------------------------------
     04a. Gamfi Tier Section CSS
 ---------------------------------------*/
