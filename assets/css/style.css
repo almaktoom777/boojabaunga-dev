@@ -1937,8 +1937,8 @@ h3 {
 
 .tie-text-section {
     background: #132209;
-  
-  
+    padding-top: 50px;
+    padding-bottom: 50px;
     position: relative;
 }
 .tie-text-section p {
@@ -1949,8 +1949,7 @@ h3 {
     line-height: 30px;
     text-align: center;
     color: rgba(255, 255, 255, 0.7);
-    margin-top: 50px;
-    margin-bottom: 50px;
+   
 }
 /* ------------------------------------
     04a. Gamfi Tier Section CSS
