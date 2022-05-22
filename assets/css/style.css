@@ -1941,7 +1941,17 @@ h3 {
     padding-bottom: 110px;
     position: relative;
 }
-
+.tie-text-section p {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 /* ------------------------------------
     04a. Gamfi Tier Section CSS
 ---------------------------------------*/
