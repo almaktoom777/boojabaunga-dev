@@ -1904,7 +1904,7 @@ h3 {
 .TierGalaxyImg1 {
     position: absolute;
     left: 30%;
-    bottom: 241px;
+    bottom: 0px;
     z-index: 0;
     width:300px;
 }
